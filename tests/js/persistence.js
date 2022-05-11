@@ -8,7 +8,7 @@ const getNumberOfTimesCanMultiplicate = (number) => {
     timesOfMultiplicate++
   }
 
-return timesOfMultiplicate
+  return timesOfMultiplicate
 }
 
 console.log(getNumberOfTimesCanMultiplicate(999))
